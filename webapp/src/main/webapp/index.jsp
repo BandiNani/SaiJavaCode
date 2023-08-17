@@ -43,5 +43,12 @@
     </style>
 </head>
 <body>
-    <h1>Hello Dear Students!! Welcome
+    <h1>Hello Dear Students!! Welcome to DevOps Project-2!!</h1>
+    <h2>This is Bhargav from Devops class</h2>
+    <h3>This is how magic happens</h3>
+    <h4>Are the Changes Made?</h4>
+    <h5>Yes the changes are made from the new commit</h5>
+    <h6>This is the last attempt to find if what I did was right</h6>
+</body>
+</html>
 
