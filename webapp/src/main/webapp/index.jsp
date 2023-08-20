@@ -1,57 +1,52 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>Google-Like Search Page</title>
+    <title>DevOps Tools Learning</title>
     <style>
-        /* Add your CSS styles here */
         body {
             font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
             margin: 0;
             padding: 0;
-            background-color: #f2f2f2;
         }
-        .search-container {
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border: 1px solid #dddddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            font-size: 24px;
+            color: #3498db;
             text-align: center;
-            margin-top: 100px;
-        }
-        .logo {
-            width: 272px;
-            height: 92px;
-            background: url('https://freepngimg.com/thumb/google/153884-logo-google-png-download-free.png') no-repeat;
-            background-size: contain;
             margin-bottom: 20px;
         }
-        .search-form {
-            display: flex;
-            justify-content: center;
+        .content {
+            font-size: 18px;
+            color: #333333;
+            line-height: 1.6;
         }
-        .search-input {
-            padding: 10px;
-            border: 1px solid #ccc;
-            border-radius: 5px 0 0 5px;
-            width: 70%;
+        .quote {
+            font-style: italic;
+            color: #e74c3c;
+            margin-top: 20px;
+            border-left: 5px solid #e74c3c;
+            padding-left: 10px;
         }
-        .search-button {
-            background-color: #f2f2f2;
-            border: 1px solid #ccc;
-            border-left: none;
-            border-radius: 0 5px 5px 0;
-            padding: 10px;
-            cursor: pointer;
-        }
-        /* Add more CSS styles as needed */
     </style>
 </head>
 <body>
-    <div class="search-container">
-        <div class="logo"></div>
-        <form class="search-form">
-            <input type="text" class="search-input" placeholder="Search the web or type a URL">
-            <input type="submit" class="search-button" value="Google Search">
-        </form>
-        <a href="https://www.google.com/imghp" target="_blank">Go to Google Images</a>
+    <div class="container">
+        <div class="header">Hello guys, I am here to teach DevOps tools in my way</div>
+        <div class="content">
+            Let me know how you understood the tools.<br>
+            And how far can you take this journey.<br>
+            Are we going to create another webpage with similar steps?<br>
+            Or are we going to explore and innovate, challenging the limits of what the future holds?
+        </div>
+        <div class="quote">"The only way to do great work is to love what you do." - Steve Jobs</div>
     </div>
 </body>
 </html>
