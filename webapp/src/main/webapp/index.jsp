@@ -19,7 +19,7 @@
         .logo {
             width: 272px;
             height: 92px;
-            background: url('https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png') no-repeat;
+            background: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b9a551a-0102-4cbd-91d0-292a58acd680/de4fd67-008f8763-06c1-4be3-95c3-78eefc621ce5.png/v1/fit/w_828,h_466,q_70,strp/star_trek_picard_wallpaper_by_pzns_de4fd67-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvMWI5YTU1MWEtMDEwMi00Y2JkLTkxZDAtMjkyYTU4YWNkNjgwXC9kZTRmZDY3LTAwOGY4NzYzLTA2YzEtNGJlMy05NWMzLTc4ZWVmYzYyMWNlNS5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.M204x8u7QbjnmvnosEpNoQgFE0FMCbdZUjFHny3BeVE') no-repeat;
             background-size: contain;
             margin-bottom: 20px;
         }
