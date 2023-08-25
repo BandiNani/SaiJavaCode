@@ -1,53 +1,78 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>DevOps Tools Learning</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #ffffff;
-            border: 1px solid #dddddd;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .header {
-            font-size: 24px;
-            color: #3498db;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .content {
-            font-size: 18px;
-            color: #333333;
-            line-height: 1.6;
-        }
-        .quote {
-            font-style: italic;
-            color: #e74c3c;
-            margin-top: 20px;
-            border-left: 5px solid #e74c3c;
-            padding-left: 10px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inspiring Quotations</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .background-letters {
+      font-size: 200px;
+      position: absolute;
+      opacity: 0.1;
+      z-index: -1;
+    }
+    .container {
+      text-align: center;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      max-width: 600px;
+      position: relative;
+    }
+    .quotation {
+      margin: 20px 0;
+    }
+    .author {
+      font-style: italic;
+      color: #666;
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <div class="header">Hello guys, I am here to teach DevOps tools in my way</div>
-        <div class="content">
-            Let me know how you understood the tools.<br>
-            And how far can you take this journey.<br>
-            Are we going to create another webpage with similar steps?<br>
-            Or are we going to explore and innovate, challenging the limits of what the future holds?
-        </div>
-        <div class="quote">"The only way to do great work is to love what you do." - Steve Jobs</div>
+  <div class="background-letters">
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ
+  </div>
+  <div class="container">
+    <h1>Inspiring Quotations</h1>
+    <div class="quotation">
+      <blockquote>
+        "The important thing is not to stop questioning."
+        <span class="author">- Albert Einstein</span>
+      </blockquote>
     </div>
+    <div class="quotation">
+      <blockquote>
+        "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."
+        <span class="author">- Stephen Hawking</span>
+      </blockquote>
+    </div>
+    <div class="quotation">
+      <blockquote>
+        "It's not what you don't know that gets you into trouble, it's what you know for sure that just ain't so."
+        <span class="author">- Mark Twain</span>
+      </blockquote>
+    </div>
+    <div class="quotation">
+      <blockquote>
+        "The sign of intelligence is that you are constantly wondering."
+        <span class="author">- Sadhguru</span>
+      </blockquote>
+    </div>
+  </div>
 </body>
 </html>
 
