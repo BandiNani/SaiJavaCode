@@ -50,9 +50,9 @@
 </head>
 <body>
   <div class="background-letters">
-    INSPIRATIONAL QUOTATIONS FROM
-    WORLD RENOWED MEN FOR A BETTER
-    CHANGING WORLD TO A BETTER TOMORROW
+    INSPIRATIONAL_QUOTATIONS_FROM
+    WORLD_RENOWED_MEN_FOR_A_BETTER
+    TOMORROW_AND_BETTER_WORLD
   </div>
   <div class="container">
     <h1>Inspiring Quotations</h1>
