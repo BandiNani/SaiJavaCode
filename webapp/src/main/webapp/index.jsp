@@ -21,6 +21,7 @@
       position: absolute;
       opacity: 0.1;
       z-index: -1;
+      color: #3498db; /* Blue color for background letters */
     }
     .container {
       text-align: center;
@@ -37,6 +38,13 @@
     .author {
       font-style: italic;
       color: #666;
+    }
+    h1 {
+      color: #e74c3c; /* Red color for headings */
+    }
+    blockquote {
+      border-left: 4px solid #2ecc71; /* Green color for blockquote border */
+      padding-left: 10px;
     }
   </style>
 </head>
