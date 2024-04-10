@@ -55,7 +55,7 @@
     TOMORROW_AND_BETTER_WORLD
   </div>
   <div class="container">
-    <h1>Inspiring Quotations</h1>
+    <h1>Inspiring Quotations From World Leaders</h1>
     <div class="quotation">
       <blockquote>
         "The important thing is not to stop questioning."
