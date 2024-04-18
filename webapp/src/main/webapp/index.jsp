@@ -51,7 +51,7 @@
 <body>
   <div class="background-letters">
     INSPIRATIONAL
-    QUOTATIONS
+    QUOTATIONS_FOR
     BETTER_WORLD
   </div>
   <div class="container">
