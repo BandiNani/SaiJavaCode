@@ -77,7 +77,7 @@
     <div class="quotation">
       <blockquote>
         "The sign of intelligence is that you are constantly wondering."
-        <span class="author">- Our Sadhguru</span>
+        <span class="author"> By Our Sadhguru </span>
       </blockquote>
     </div>
   </div>
